@@ -11,3 +11,5 @@ let nuevoNombre = (a) => {
   }
 
 }
+
+var ammend = 'se usa para modificar un commit' 
