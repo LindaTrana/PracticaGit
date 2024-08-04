@@ -13,3 +13,17 @@ let nuevoNombre = (a) => {
 }
 
 var ammend = 'se usa para modificar un commit' 
+
+let masExperimentos
+
+class MetodoAmend{
+  constructor(ab,cd){
+    this.cd = ab,
+    this.ab = cd
+  }
+
+  ciudad = function stag() {
+    return 'saludos'
+  }
+
+}
