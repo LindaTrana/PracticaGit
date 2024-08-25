@@ -12,6 +12,11 @@ let nuevoNombre = (a) => {
 
 }
 
+let inicio = (a) => {
+ let suma = a + a
+ return suma
+}
+
 var ammend = 'se usa para modificar un commit' 
 
 let masExperimentos
