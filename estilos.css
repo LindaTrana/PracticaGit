@@ -6,3 +6,6 @@ body{
 display: block;
 margin-top: 10px;
 }
+.palabras{
+  border-radius: 1rem;
+}
