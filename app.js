@@ -7,6 +7,9 @@ let nuevoNombre = (a) => a === typeof(String) ? console.log('que bueno que eres 
     
 let inicial = (a) =>  a + 10
 
+let resultado = inicial(10)
+
+if resultado == 10 ? 'que bueno' : 'Es otro numero.'
 
 
 var ammend = 'se usa para modificar un commit' 
