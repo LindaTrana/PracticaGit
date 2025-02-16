@@ -1,3 +1,16 @@
 body{
   color: red
 }
+
+::content{
+display: block;
+margin-top: 10px;
+}
+.palabras{
+  border-radius: 1.5rem;
+  border-bottom: 0cm;
+}
+#dudas{
+  font-size:10px;
+}
+

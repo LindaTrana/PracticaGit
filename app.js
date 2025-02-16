@@ -1,16 +1,16 @@
 var letras= 'Creado este archivo'
 
-function nombre(params) {
-  return `${params} D'Trini. `
-}
+let nombre = (params) =>  `${params} D'Trini. `
 
-let nuevoNombre = (a) => {
 
-  if (a=== typeof(String)){
-    console.log('que bueno que eres string')
-  }
+let nuevoNombre = (a) => a === typeof(String) ? console.log('que bueno que eres string'): ''
+    
+let inicial = (a) =>  a + 10
 
-}
+let resultado = inicial(10)
+
+if resultado == 10 ? 'que bueno' : 'Es otro numero.'
+
 
 var ammend = 'se usa para modificar un commit' 
 
@@ -20,10 +20,6 @@ class MetodoAmend{
   constructor(ab,cd){
     this.cd = ab,
     this.ab = cd
-  }
-
-  ciudad = function stag() {
-    return 'saludos'
   }
 
 }
