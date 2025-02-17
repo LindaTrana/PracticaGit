@@ -10,5 +10,6 @@ SANTO ES EL!
 
 usando vi de una vez
 
+probando hacer un commit con la rama main remota avanzada en commit
 
-
+e aprendido bastante del frontend

@@ -20,3 +20,9 @@ class MetodoAmend{
   }
 
 }
+
+
+class NuevosHumano{
+  
+
+}
